@@ -1,0 +1,1 @@
+Burada IDLE interrupt ile verilerin alınıp uzaklığın ölçülmesi çalışılmıştır.
